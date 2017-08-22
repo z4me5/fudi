@@ -459,6 +459,10 @@ footer {
 }
 
  @media screen and (max-width: 320px) {
+   .list-item {
+	margin-left: 10px;
+	}
+
    .advantages-box p {
 		margin: 0 15px;
    }
