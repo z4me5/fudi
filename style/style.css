@@ -432,6 +432,10 @@ footer {
 }
 
  @media screen and (max-width: 420px) {
+    .list-item {
+	margin-left: 10px;
+	}
+
    .header-content em {
     font-size: 26px;
    	}
