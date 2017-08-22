@@ -1,0 +1,229 @@
+%!Adobe-FontList 1.18
+%Locale:0x419
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-Black
+FamilyName:Lato
+StyleName:Black
+FullName:Lato Black
+MenuName:Lato Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:O:\YandexDisk\page-proofs\fudi_maket\Font\Lato-Bla.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:114588
+FileModTime:1501021756
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Lato Black
+NameArray:0,Win,1,Lato Black
+NameArray:0,Win,16,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-BlackItalic
+FamilyName:Lato
+StyleName:Black Italic
+FullName:Lato Black Italic
+MenuName:Lato Black
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:O:\YandexDisk\page-proofs\fudi_maket\Font\Lato-BlaIta.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:111616
+FileModTime:1501021756
+WeightClass:900
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Lato Black Italic
+NameArray:0,Win,1,Lato Black
+NameArray:0,Win,16,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-Bold
+FamilyName:Lato
+StyleName:Bold
+FullName:Lato Bold
+MenuName:Lato
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:O:\YandexDisk\page-proofs\fudi_maket\Font\Lato-Bol.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:121788
+FileModTime:1501021756
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Lato Bold
+NameArray:0,Win,1,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-BoldItalic
+FamilyName:Lato
+StyleName:Bold Italic
+FullName:Lato Bold Italic
+MenuName:Lato
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:O:\YandexDisk\page-proofs\fudi_maket\Font\Lato-BolIta.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:120312
+FileModTime:1501021756
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Lato Bold Italic
+NameArray:0,Win,1,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-Hairline
+FamilyName:Lato
+StyleName:Hairline
+FullName:Lato-Hairline
+MenuName:Lato Hairline
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:O:\YandexDisk\page-proofs\fudi_maket\Font\Lato-Hai.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:115316
+FileModTime:1501021756
+WeightClass:250
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Lato Hairline
+NameArray:0,Win,1,Lato Hairline
+NameArray:0,Win,16,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-HairlineItalic
+FamilyName:Lato
+StyleName:Hairline Italic
+FullName:Lato-HairlineItalic
+MenuName:Lato Hairline
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:O:\YandexDisk\page-proofs\fudi_maket\Font\Lato-HaiIta.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:91460
+FileModTime:1501021756
+WeightClass:250
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Lato Hairline Italic
+NameArray:0,Win,1,Lato Hairline
+NameArray:0,Win,16,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-Light
+FamilyName:Lato
+StyleName:Light
+FullName:Lato-Light
+MenuName:Lato Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:O:\YandexDisk\page-proofs\fudi_maket\Font\Lato-Lig.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:122524
+FileModTime:1501021756
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Lato Light
+NameArray:0,Win,1,Lato Light
+NameArray:0,Win,16,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-LightItalic
+FamilyName:Lato
+StyleName:Light Italic
+FullName:Lato-LightItalic
+MenuName:Lato Light
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:O:\YandexDisk\page-proofs\fudi_maket\Font\Lato-LigIta.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:91600
+FileModTime:1501021756
+WeightClass:300
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Lato Light Italic
+NameArray:0,Win,1,Lato Light
+NameArray:0,Win,16,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-Regular
+FamilyName:Lato
+StyleName:Regular
+FullName:Lato Regular
+MenuName:Lato
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:O:\YandexDisk\page-proofs\fudi_maket\Font\Lato-Reg.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:120196
+FileModTime:1501021756
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Lato Regular
+NameArray:0,Win,1,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-Italic
+FamilyName:Lato
+StyleName:Italic
+FullName:Lato Italic
+MenuName:Lato
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:O:\YandexDisk\page-proofs\fudi_maket\Font\Lato-RegIta.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:118352
+FileModTime:1501021756
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Lato Italic
+NameArray:0,Win,1,Lato
+%EndFont
+

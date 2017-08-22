@@ -1,0 +1,466 @@
+header {
+	background: #fff url(../img/bg_header.jpg) 0 0 no-repeat;
+	background-size: cover;
+	height: 100vh;
+}
+
+.container {
+	max-width: 1200px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+
+.wrap-nav {
+	display: flex;
+	justify-content: space-between;
+}
+
+.logo {
+	margin: 10px;
+}
+
+.nav-list {
+	display: flex;
+	justify-content: flex-end;
+	align-items: flex-start;
+	margin-top: 25px;
+	margin-right: 10px;
+}
+
+.list-item {
+	display: inline;
+	margin-left: 25px;
+}
+
+.list-item a {
+	text-transform: uppercase;
+	font-style: 14px;
+	font-weight: bold;
+	color: #fff;
+	text-decoration: none;
+}
+
+.icon-burher {
+	display: inline-block;
+	background: url(../img/icon_burger.png) 0 0 no-repeat;
+	width: 14px;
+	height: 10px;
+}
+.wrap-header {
+	margin: 15%;
+	display: flex;
+	justify-content: center;
+	
+}
+
+.header-content {
+	text-align: center;
+}
+
+
+.header-content em {
+	display: block;
+	font-size: 36px;
+	font-weight: bold;
+	color: rgba(255, 255, 255, 0.7);
+	text-shadow: 0px 1px 40px rgba(1, 1, 1, 0.5);
+}
+
+.header-content h1 {
+  font-size: 100px;
+  font-family: "Lato";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  text-shadow: 0px 1px 40px rgba(1, 1, 1, 0.5);
+  text-transform: uppercase;
+  margin: 15px 0;
+}
+
+.btn {
+  	display: block;
+	font-size: 28px;
+	font-family: "Lato";
+	color: rgb(255, 255, 255);
+	font-weight: bold;
+	text-align: center;
+	text-transform: uppercase;
+	padding: 20px 70px;
+	border: 5px solid #fff;
+	background-color: rgba(1, 1, 1, 0);
+	margin: 20px auto;
+	cursor: pointer;
+}
+
+.header-content p {
+  font-size: 14px;
+  font-family: "Lato";
+  color: rgb(255, 255, 255);
+  line-height: 2.143;
+  text-shadow: 0px 1px 40px rgba(1, 1, 1, 0.55);
+  text-transform: uppercase;
+}
+
+.header-content a {
+	color: rgb(255, 255, 255);
+}
+
+.wrap-advantages {
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+}
+
+.advantages-box {
+	width: 350px;
+	text-align: center;
+	margin: 8% 25px;
+}
+
+.icon-adv {
+	display: inline-block;
+	height: 60px;
+	width: 60px;
+	padding: 18px;
+	border: 2px solid #000;
+	border-radius: 50%;
+}
+
+.icon-hamburger {
+	background: #fff url(../img/icon_hamburger.png) 50% 50% no-repeat;
+}
+
+.icon-dollars {
+	background: #fff url(../img/icon_dollars.png) 50% 50% no-repeat;
+}
+
+.icon-cook {
+	background: #fff url(../img/icon_cook.png) 50% 50% no-repeat;
+}
+
+.heading_2 {
+  font-size: 18px;
+  font-family: "Lato";
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-bottom: 0; 
+}
+
+.red-line {
+	display: inline-block;
+	width: 88px;
+	height: 1px;
+	background-color: #f57365;
+	margin-bottom: 10px;
+}
+
+.advantages-box p {
+  font-size: 16px;
+  font-family: "Lato";
+  font-weight: 300;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  margin: 0;
+}
+
+/* app */
+.app {
+	background-color: #f7f7f7;
+}
+
+.wrap-app {
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	padding-top: 50px;
+}
+
+.iphone-box {
+	background: #f7f7f7 url(../img/app_iphone.png) 0 0 no-repeat;
+	background-size: contain;
+	min-width: 529px;
+	height: 777px;
+}
+
+.text-info-app {
+	padding-top: 80px;
+	padding-left: 10px;
+	margin-bottom: 10px;
+	max-width: 550px;
+	text-align: left;
+}
+
+.text-info-app h2 {
+	margin: 0;
+}
+
+.text-info-app p {
+	line-height: 1.6;
+	letter-spacing: 0.05em;
+	font-weight: 300;
+	margin: 0 0 30px 0;
+}
+
+.icon_app_down {
+	display: flex;
+}
+
+.icon_appstore a {
+	display: block;
+	background: url(../img/icon_appstore.jpg) 0 0 no-repeat;
+	width: 112px;
+	height: 39px;
+	margin-right: 10px;
+}
+
+.icon_playmarket a {
+	display: block;
+	background:  url(../img/icon_playmarket.jpg) 0 0 no-repeat;
+	width: 120px;
+	height: 39px;
+}
+
+/* slider */
+
+.slider-reviews {
+	background-color: #4a3949;
+}
+
+.slider-reviews-item {
+	margin: 40px 0 80px;
+	outline: none;
+}
+.avatar {
+	width: 100px;
+	height: 100px;
+	margin: 0 auto;
+}
+.avatar img {
+	width: 100px;
+	height: 100px;
+	border: 2px solid #958b94;
+	border-radius: 50%;
+	text-align: center;
+}
+
+.text-review, .user-info {
+  font-size: 16px;
+  font-family: "Lato";
+  color: #888088;
+  font-weight: 300;
+  line-height: 1.2;
+  text-align: center;
+}
+
+.user-info {
+	display: block;
+	margin: 0 auto;
+}
+
+.slick-dots {
+	bottom: 20px;
+}
+.slick-dots li button {
+    background: url(../img/dot.png);
+    width: 10px;
+    height: 10px;
+    text-indent: -9999px;
+    overflow:hidden;
+}
+
+.slick-dots li.slick-active button {
+    background: url(../img/dot_activ.png);
+    width: 10px;
+    height: 10px;
+    text-indent: -9999px;
+    overflow:hidden;
+}
+
+.slick-prev:before, .slick-next:before {
+	display: none;
+}
+
+.slick-dotted.slick-slider {
+	margin-bottom: 0;
+}
+
+.wrap-brower-header .heading_2{
+	text-align: center;
+}
+
+.wrap-brower-header .red-line {
+	display: block;
+	margin: 0 auto;
+	margin-top: 10px;
+}
+
+/* recipes */
+.wrap-brower-recipes {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.recipes-item {
+	display: flex;
+	flex-direction: column;
+    align-items: center;
+    justify-content: center; 
+	width: 240px;
+	height: 225px;
+}
+
+.italian {
+	background: #f8978c url(../img/recipes_1.jpg) 0 0 no-repeat;
+}
+
+.indian {
+	background: #f8978c url(../img/recipes_2.jpg) 0 0 no-repeat;
+}
+
+.french {
+	background: #f8978c url(../img/recipes_3.jpg) 0 0 no-repeat;
+}
+
+.steakhouse {
+	background: #f8978c url(../img/recipes_4.jpg) 0 0 no-repeat;
+}
+
+.seafood {
+	background: #f8978c url(../img/recipes_5.jpg) 0 0 no-repeat;
+}
+
+.sushi {
+	background: #f8978c url(../img/recipes_6.jpg) 0 0 no-repeat;
+}
+
+.mexican {
+	background: #f8978c url(../img/recipes_7.jpg) 0 0 no-repeat;
+}
+
+.chinese {
+	background: #f8978c url(../img/recipes_8.jpg) 0 0 no-repeat;
+}
+
+.pizza {
+	background: #f8978c url(../img/recipes_9.jpg) 0 0 no-repeat;
+}
+
+.american {
+	background: #f8978c url(../img/recipes_10.jpg) 0 0 no-repeat;
+}
+
+.recipes-item em {
+    font-size: 16px;
+    font-family: "Times New Roman";
+    color: rgba(255, 255, 255, 0.9);
+    font-weight: bold;
+    line-height: 0.833;
+    text-shadow: 0px 1px 40px rgba(1, 1, 1, 0.55);
+}
+
+.recipes-item h2 {
+	margin-top: 15px;
+    font-size: 36px;
+    font-family: "Lato";
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    text-shadow: 0px 1px 40px rgba(1, 1, 1, 0.55);
+    text-transform: uppercase;
+}
+
+/* statistics */
+
+.wrap-statistics {
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+}
+
+.ststatistics-item {
+	display: flex;
+	flex-direction: column;
+    align-items: center;
+    justify-content: center; 
+    margin: 60px 0;
+    margin-right: 10px;
+}
+
+.statistic-number {
+    font-size: 36px;
+    font-family: "Lato";
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+
+.statistic-text {
+  font-size: 16px;
+  font-family: "Lato";
+  font-weight: 300;
+  color: rgb(0, 0, 0);
+}
+
+/* footer */
+.wrap-footer {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+footer {
+	background-color: #f7f7f7;
+}
+.copy, .design {
+	font-size: 14px;
+	font-weight: 300;
+	color: #8b8b8b;
+	font-family: "Lato";
+}
+
+.design {
+	text-transform: uppercase;
+}
+
+.design a {
+	text-decoration: none;
+	color: #000;
+	font-weight: normal;
+}
+
+@media screen and (max-width: 1200px) {
+   
+}
+
+ @media screen and (max-width: 420px) {
+   .header-content em {
+    font-size: 26px;
+   	}
+
+ 	.header-content h1 {
+   		font-size: 70px;
+   }
+
+	.btn {
+    font-size: 16px;
+    border: 3px solid #fff;
+	}
+	
+	 .wrap-advantages {
+		flex-direction: column;
+		align-items: center;
+   	}
+   	
+   .recipes-item {
+   	width: 100%;
+   	background-size: cover;
+   }
+
+
+}
+
+ @media screen and (max-width: 320px) {
+   .advantages-box p {
+		margin: 0 15px;
+   }
+}
+
